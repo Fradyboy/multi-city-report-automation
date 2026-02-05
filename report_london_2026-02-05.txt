@@ -1,0 +1,7 @@
+CITY REPORT: london
+-----------------
+Generated on: 2026-02-05 07:03:39.868908
+
+John | Age: 30 | City: London
+
+Total records: 1

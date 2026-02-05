@@ -1,0 +1,7 @@
+MULTI-CITY REPORT SUMMARY
+------------------------
+Generated on: 2026-02-05 07:03:39.862966
+
+cumilla: 2 records
+dhaka: 1 records
+london: 1 records
